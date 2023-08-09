@@ -30,7 +30,7 @@ For support, collaboration, or other inquiries, please email [cutlasscrabteam@gm
 
 ### Issue: Gecko Pad not adhering properly
 
-- **Solution:** Reapply the two-part epoxy and ensure that the surfaces are clean and properly prepared.
+- **Solution:** Reapply the two-part epoxy and ensure that the surfaces are clean and properly prepared. Remember, a gecko uses many different surface areas as a point of contact for adhesion, rather than a single larger robust surface area. 
 
 ### Issue: Parachute not deploying
 
