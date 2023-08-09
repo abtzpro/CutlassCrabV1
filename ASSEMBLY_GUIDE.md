@@ -32,34 +32,55 @@ This guide provides detailed instructions for assembling the Cutlass Crab v1. Pl
 ## 4. Parachute and Inflatable Cushioning System
 
 ### 4.1 Parachute Deployment System
-- **Parachute Housing:** Design housing with a spring-loaded mechanism and trigger.
-- **Attaching the Parachute:** Carefully fold and place inside the housing.
+- **Parachute Housing:** Fabricate a housing with a spring-loaded mechanism and a manual/remote trigger.
+- **Attaching the Parachute:** Carefully fold the parachute and place it inside the housing.
 
 ### 4.2 Inflatable Cushioning
-- **Cushion Material:** Use rubberized fabric, cutting to the required shape.
-- **Inflation Mechanism:** Attach a CO2 cartridge with pressure regulation.
+- **Cushion Material:** Select rubberized fabric and cut into the required shape.
+- **Inflation Mechanism:** Attach a CO2 cartridge with a pressure regulator and a release valve.
 
-...
+## 5. Solar Panel Integration
+
+### 5.1 Energy Management System
+- **Solar Panel Placement:** Arrange the flexible solar panels on the top surface.
+- **Wiring:** Solder the wiring to a solar charge controller, ensuring proper polarity.
+
+## 6. GPS, BlackBox, and Electronic Components
+
+### 6.1 Robust Onboard Systems
+- **GPS Installation:** Mount the GPS module securely and connect it to the control unit.
+- **BlackBox Setup:** Include a data recorder connected to sensors, GPS, etc.
+
+## 7. Sensors and Environment Scanners
+
+### 7.1 Advanced Sensor Suite
+- **Mounting Sensors:** Distribute sensors evenly around the body.
+- **Calibration:** Follow the manufacturer's instructions for calibration and testing.
+
+## 8. Counterbalancing and Inflatable Landing Cushion
+
+### 8.1 Dynamic Counterbalancing
+- **Weights:** Fill adjustable weight containers evenly, securing them to the base.
+- **Balance Control:** Program the balance control algorithms according to weight distribution.
+
+### 8.2 Seamless Integration
+- **Interconnection:** Wire the inflatable cushioning and parachute systems together for coordinated deployment.
+
+## 9. Undercarriage Facial Recognition and Environmental Sensors
+
+### 9.1 Intelligent Recognition System
+- **Camera Placement:** Mount the camera facing downwards.
+- **Software Setup:** Implement facial recognition using pre-trained AI models.
 
 ## 10. Final Assembly, Integration Testing, and Deployment Preparations
 
 ### 10.1 Precision Assembly and Testing
-- **Step-by-Step Assembly:** Follow the order provided, ensuring alignment.
-- **Real-World Testing:** Simulate different terrains and environmental conditions.
+- **Step-by-Step Assembly:** Follow the order provided, checking alignment.
+- **Real-World Testing:** Simulate various terrains and environmental conditions.
 
 ### 10.2 Deployment Excellence
-- **User Manual Creation:** Include clear instructions for operations and maintenance.
-- **Regulatory Compliance:** Acquire necessary certifications.
-
-## Safety Notes
-- **Wear Protective Gear:** Utilize proper safety equipment during assembly.
-- **Testing Safety:** Always test in a controlled environment.
-
-## Tools and Supplies List
-- Refer to the PARTS_LIST.md for detailed tools and materials required.
-
-## Conclusion
-The Cutlass Crab v1 is a complex and highly technical project. Adhering to these guidelines ensures a successful completion.
+- **User Manual Creation:** Provide clear instructions for operations and maintenance.
+- **Regulatory Compliance:** Ensure all certifications are acquired as needed.
 
 ### Contact
 For any queries or support, please email [cutlasscrabteam@gmail.com](mailto:cutlasscrabteam@gmail.com).
