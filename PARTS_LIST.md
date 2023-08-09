@@ -77,18 +77,19 @@ The following is a detailed list of all components, materials, and tools require
 - Controlled Environment for Testing
 
 ## Cost to prototype the Cutlass Crab v1
-Spider-Leg Design & Construction: $1,200 - $2,000
-Hexagonal Hinged Feet with Gecko Grip: $150 - $250
-Jumping Mechanism: $400 - $600
-Parachute & Inflatable Cushioning System: $250 - $450
-Solar Panel Integration: $500 - $800
-GPS, BlackBox, and Electronic Components: $400 - $700
-Sensors and Environment Scanners: $700 - $1,200
-Counterbalancing & Other Features: $150 - $300
-Software & AI Models: $600 - $1,200
-Prototyping & Fabrication Costs: $1,500 - $2,500
-Testing & Calibration: $600 - $1,200
-Miscellaneous Costs: $600 - $1,200
+- Spider-Leg Design & Construction: $1,200 - $2,000
+- Hexagonal Hinged Feet with Gecko Grip: $150 - $250
+- Jumping Mechanism: $400 - $600
+- Parachute & Inflatable Cushioning System: $250 - $450
+- Solar Panel Integration: $500 - $800
+- GPS, BlackBox, and Electronic Components: $400 - $700
+- Sensors and Environment Scanners: $700 - $1,200
+- Counterbalancing & Other Features: $150 - $300
+- Software & AI Models: $600 - $1,200
+- Prototyping & Fabrication Costs: $1,500 - $2,500
+- Testing & Calibration: $600 - $1,200
+- Miscellaneous Costs: $600 - $1,200
+
 The total as a rough estimate would be in the range of $7,600 to $13,400.
 
 For inquiries about parts or vendors, please email [cutlasscrabteam@gmail.com](mailto:cutlasscrabteam@gmail.com).
