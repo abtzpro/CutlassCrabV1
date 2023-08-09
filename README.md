@@ -2,54 +2,35 @@
 - A Proposed Exploration Robot
 
 ## Introduction
-
-Introducing the Cutlass Crab v1, a visionary exploration robot designed with robust agility and all-terrain capabilities. This proposed project by Adam J Rivers (abtz) embodies innovation and technological prowess, aiming to redefine unmanned exploration through cutting-edge engineering.
-
-The Cutlass Crab v1 features an 8-legged design akin to a spider, solar-powered energy sustainability, an advanced sensor suite for environmental analysis, and much more. This document serves as an invitation to potential collaborators, backers, financiers, developers, and enthusiasts to explore the potential of this groundbreaking concept.
+The Cutlass Crab v1 is a potential new groundbreaking exploration robot designed with precision and robustness in mind. Conceived as a revolutionary step in robotics, it combines innovative design with state-of-the-art technology.
 
 ## Key Features
+### Spider-Leg Design and Construction
+Incorporating high-torque servo motors and meticulously crafted carbon-fiber tubes, the spider-leg design enables remarkable mobility.
 
-### 1. **Spider-Leg Design**
-   Utilizes 32 segments with 360° movement angles, offering unparalleled mobility and adaptability.
+### Hexagonal Hinged Feet with Gecko Grip
+Hexagonal feet equipped with gecko-like grip provide unparalleled traction and adaptability.
 
-### 2. **Hexagonal Hinged Feet with Gecko Grip**
-   Ensures stable climbing and clinging to any surface, making it all-terrain capable.
+### Jumping Mechanism
+A unique combination of pneumatic pistons and steel springs grants the ability to jump over obstacles.
 
-### 3. **Jumping Mechanism**
-   Engineered to jump 6-10 feet vertically, utilizing advanced spring and compression technology.
+### Parachute and Inflatable Cushioning System
+Ensuring safe landings and risk mitigation with a parachute deployment system and inflatable cushions.
 
-### 4. **Parachute and Inflatable Cushioning System**
-   Designed for safe airdrops into foreign areas with inflatable landing protection.
+### Solar Panel Integration
+Flexible solar panels guarantee energy efficiency and prolonged autonomous operation.
 
-### 5. **Solar Panel Integration**
-   Sustainable energy sourcing, maximizing operational time.
-
-### 6. **Sensors, Facial Recognition, and Environment Scanners**
-   Comprehensive situational awareness with state-of-the-art sensor technology.
-
-### 7. **Dynamic Counterbalancing**
-   Ensures stable navigation across varied terrains.
-
-### 8. **Robust Onboard Systems**
-   Including GPS, BlackBox, charge controllers, and more for seamless operation.
+### GPS, BlackBox, and Electronic Components
+Robust onboard systems including GPS, data recorders, and various environmental sensors.
 
 ## Collaboration Opportunities
+The Cutlass Crab v1 project seeks collaboration from interested developers, engineers, financiers, and enthusiasts. Whether you're an expert coder, a mechanical engineer, or someone passionate about cutting-edge technology, your contribution can make a difference. See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-This proposed project presents an array of collaboration opportunities across several domains:
+## Support the Project
+Backers, collaborators, and interested parties are welcome to support this ambitious endeavor. Your involvement can help propel the Cutlass Crab v1 to new heights.
 
-- **Research and Development**: Engineers, scientists, and researchers to refine and innovate the design.
-- **Manufacturing and Prototyping**: Experts in fabrication to bring this concept to life.
-- **Funding and Investment**: Financiers to support the various stages of development and testing.
-- **Marketing and Community Engagement**: Individuals passionate about technology to foster a community of support.
+## Contact Information
+For further inquiries, collaboration opportunities, or to show your support, feel free to email the Cutlass Crab team at [cutlasscrabteam@gmail.com](mailto:cutlasscrabteam@gmail.com).
 
 ## Conclusion
-
-The Cutlass Crab v1 stands as a testament to human creativity and technological ambition. As a sole individual, I, Adam J Rivers, invite you to join me on this exciting journey to revolutionize the future of exploration.
-
-I welcome inquiries, suggestions, and participation from all interested parties. Together, we can turn this proposed concept into a reality that may reshape our understanding of autonomous exploration and robotics.
-
-For detailed project specifications, assembly guidelines, and more information, please refer to the accompanying documents.
-
----
-
-*For contact and collaboration inquiries, please reach out at [cutlasscrabteam@gmail.com](mailto:cutlasscrabteam@gmail.com).*
+Join us on this exciting journey as we redefine what's possible with robotic exploration. The Cutlass Crab v1 isn't just a project; it's a vision for the future of innovation.
