@@ -2,7 +2,7 @@
 - A Proposed Exploration Robot
 
 ## Introduction
-The Cutlass Crab v1 is a potential new groundbreaking exploration robot designed with precision and robustness in mind. Conceived as a revolutionary step in robotics, it combines innovative design with state-of-the-art technology.
+The Cutlass Crab v1 is a potential new groundbreaking exploration robot designed with precision and robustness in mind. Conceived by Adam Rivers, CEO, Hello Security, as a revolutionary step in robotics, it combines innovative design with state-of-the-art technology.
 
 ## Key Features
 ### Spider-Leg Design and Construction
